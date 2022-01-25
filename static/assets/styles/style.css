@@ -70,45 +70,51 @@ header {
 
 .actu {
     justify-content: space-between;
-    height: 300px;
+    height: 340px;
     width: 100%;
     display: flex;
     padding-top: 2%;
-    margin-top: 5%;
+    margin-top: 8%;
     text-align: center;
 }
 
 .Actu1 {
     background-color: blue;
-    width: 30%;
+    width: 31%;
     height: 100%;
 }
 
 .Actu2 {
     background-color: brown;
-    width: 30%;
+    width: 31%;
     height: 100%;
 }
 
 .Actu3 {
     background-color: cornflowerblue;
-    width: 30%;
+    width: 31%;
     height: 100%;
 }
 
 
-.down {
+/*.down {
     width: 100%;
+    margin-top: 5%;
     height: 100%;
     text-align: justify;
     color: cornsilk;
-}
+    display: flex;
+    justify-content: space-between;
+}*/
+
+
 
 .downleft {
-    text-align: left;
-
-}
-
-.downright {
     text-align: right;
+    width: 24%;
+    height: 100%;
+   /* background-color: black;*/
+    float: right;
+    color: cornsilk;
+    border-radius: 4px;
 }
