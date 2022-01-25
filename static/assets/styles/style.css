@@ -118,3 +118,22 @@ header {
     color: cornsilk;
     border-radius: 4px;
 }
+.map {
+    height: 20px;
+    text-align: center;
+    background-color: rgb(95, 4, 4);
+    padding-top: 10px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+}
+.map a {
+    color: whitesmoke;
+    font-size: larger;
+    text-align: center;
+    text-decoration: none;
+
+   
+}
